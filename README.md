@@ -5,13 +5,13 @@
 
 # Make sure you write first all the information below 
 
-MacID: [Insert your macID here]
+MacID: [pater52]
 
-StudentID: [Insert your numerical student ID here]
+StudentID: [400260481]
 
-Student First Name: [Insert your first name here]
+Student First Name: [Rutvi]
 
-Student Last Name: [Insert your last name here]
+Student Last Name: [Patel]
 
 # Make sure to push (Hit Green Commit Changes Button) Frequently throughout the exam time to save your work
 
